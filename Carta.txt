@@ -1,1 +1,28 @@
+
+Entradas:
+
+Ensalada mixta: Lechuga, tomate, pepino y aderezo de la casa - $5.99
+Sopa del día: Varía según la disponibilidad de ingredientes - $4.99
+Nachos con queso: Tortilla de maíz cubierta con queso derretido, jalapeños y salsa - $6.99
+Platos principales:
+
+Filete de res: Filete de res a la parrilla con opción de papas fritas o ensalada - $15.99
+Salmón a la plancha: Salmón fresco a la parrilla servido con arroz y verduras - $14.99
+Pasta alfredo: Fettuccine en salsa cremosa de queso parmesano con pollo a la parrilla - $12.99
+Especiales de la casa:
+
+Paella mixta: Arroz con mariscos, pollo y chorizo - $17.99
+Filete de pescado con salsa de limón: Filete de pescado con salsa de limón y acompañado de puré de papas y espárragos - $16.99
+Cordero al horno: Pierna de cordero al horno con hierbas y especias, servida con papas asadas y ensalada - $18.99
+Postres:
+
+Tarta de chocolate: Deliciosa tarta de chocolate con helado de vainilla - $6.99
+Flan de caramelo: Clásico flan de caramelo casero - $4.99
+Helado de fresa: Una bola de helado de fresa con salsa de frutas rojas - $3.99
+Bebidas:
+
+Refresco de cola: Coca-Cola, Pepsi, etc. - $2.99
+Agua mineral: Agua embotellada - $1.99
+Vino tinto: Variedad de vinos tintos de la región - precio varía según la selección
+=======
 Flan
